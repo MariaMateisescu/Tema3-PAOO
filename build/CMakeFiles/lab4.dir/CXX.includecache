@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maria/Desktop/Tema1/lucrarea4/main.cpp
+iostream
+-
+produsAlimentar.cpp
+/home/maria/Desktop/Tema1/lucrarea4/produsAlimentar.cpp
+produsElectronic.cpp
+/home/maria/Desktop/Tema1/lucrarea4/produsElectronic.cpp
+memory
+-
+
+/home/maria/Desktop/Tema1/lucrarea4/produs.cpp
+iostream
+-
+
+/home/maria/Desktop/Tema1/lucrarea4/produsAlimentar.cpp
+iostream
+-
+produs.cpp
+/home/maria/Desktop/Tema1/lucrarea4/produs.cpp
+
+/home/maria/Desktop/Tema1/lucrarea4/produsElectronic.cpp
+iostream
+-
+produs.cpp
+/home/maria/Desktop/Tema1/lucrarea4/produs.cpp
+

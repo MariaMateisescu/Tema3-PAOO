@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/lab4.dir/main.cpp.o CMakeFiles/lab4.dir/produs.cpp.o CMakeFiles/lab4.dir/produsAlimentar.cpp.o CMakeFiles/lab4.dir/produsElectronic.cpp.o  -o lab4 
